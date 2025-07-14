@@ -2,7 +2,7 @@ USER PERSONA: u/kojied
 
 ---
 
- Motivations:
+Motivations:
 Here are the insights extracted from the Reddit post:
 
 **Motivations:**
@@ -14,7 +14,7 @@ Here are the insights extracted from the Reddit post:
 
 ---
 
- Frustrations:
+Frustrations:
 **
 
 * The user feels frustrated when their usual hangout spot is disrupted by a large group of young people.
@@ -25,7 +25,7 @@ Here are the insights extracted from the Reddit post:
 
 ---
 
- Personality Traits:
+Personality Traits:
 **
 
 * The user is introspective and self-aware, as seen in their ability to recognize and question their own biases.
@@ -36,7 +36,7 @@ Here are the insights extracted from the Reddit post:
 
 ---
 
- Habits:
+Habits:
 **
 
 * The user has a habit of frequenting a specific bar in their neighborhood that they enjoy.
@@ -46,7 +46,7 @@ Here are the insights extracted from the Reddit post:
 
 ---
 
- Goals & Needs:
+Goals & Needs:
 **
 
 * The user's goal is to find a sense of comfort and belonging in their social environment.
@@ -55,7 +55,7 @@ Here are the insights extracted from the Reddit post:
 
 ---
 
- Citations:
+Citations:
 https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
 https://reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/
 https://reddit.com/r/AskReddit/comments/1hnx7lj/h1b_holders_do_you_feel_exploited_or_see_it_as_an/
