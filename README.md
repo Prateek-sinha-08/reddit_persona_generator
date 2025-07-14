@@ -3,7 +3,7 @@ Follow these steps to run the Reddit Persona Generator for any Reddit user:
 
 1. Clone the Repository
 ----------------------------------------------
-git clone https://github.com/Prateek-sinha-08/reddit-persona-generator.git
+git clone https://github.com/Prateek-sinha-08/reddit_persona_generator.git
 cd reddit-persona-generator
 
 
