@@ -1,0 +1,12 @@
+# Ignore secrets
+.env
+
+# Bytecode & venv
+__pycache__/
+*.py[cod]
+venv/
+.env.*
+.envrc
+
+# Ignore output files
+outputs/
