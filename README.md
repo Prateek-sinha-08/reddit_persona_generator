@@ -4,7 +4,7 @@ Follow these steps to run the Reddit Persona Generator for any Reddit user:
 1. Clone the Repository
 ----------------------------------------------
 git clone https://github.com/Prateek-sinha-08/reddit_persona_generator.git
-cd reddit-persona-generator
+cd reddit_persona_generator
 
 
 2. Create a Virtual Environment (Recommended)
@@ -39,6 +39,4 @@ python run.py --username kojied
 
 6. View the Output
 ----------------------------------------------
-After successful execution, you’ll find the output file in the outputs/ folder:
-outputs/kojied_persona.txt
-This file contains the full user persona generated from the user's Reddit activity, with proper citations.
+After successful execution, you will get the output file in the outputs folder.
